@@ -479,9 +479,9 @@ Este projeto está sob a licença ISC. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autores
 
 **Alan Jones Stacholski Jr.**
-- GitHub: (https://github.com/AlanStacholski)
+- GitHub: .[Alan Stacholski Jr](https://github.com/AlanStacholski)
 - Email: (alamstacholski@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/alanjr/)
+- LinkedIn: .[Alan Stacholski Jr](https://www.linkedin.com/in/alanjr/)
 
 **Marcelo Piloni**
 - GitHub: [@marcelopiloni](https://github.com/marcelopiloni)
