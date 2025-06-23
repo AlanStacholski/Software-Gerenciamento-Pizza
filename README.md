@@ -480,7 +480,7 @@ Este projeto está sob a licença ISC. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Alan Jones Stacholski Jr.**
 - GitHub: (https://github.com/AlanStacholski)
-- Email: alamstacholski@gmail.com
+- Email: (alamstacholski@gmail.com)
 - LinkedIn: (https://www.linkedin.com/in/alanjr/)
 
 **Marcelo Piloni**
