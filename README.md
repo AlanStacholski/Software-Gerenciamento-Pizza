@@ -80,7 +80,7 @@ PORT=3000
 # Database Configuration
 MONGODB_URI=mongodb://localhost:27017/pizzaria_delivery
 # Ou para MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://usuario:senha@cluster.mongodb.net/pizzaria
+# MONGODB_URI=
 
 # JWT Configuration
 JWT_SECRET=seu-jwt-secret-super-seguro-aqui
